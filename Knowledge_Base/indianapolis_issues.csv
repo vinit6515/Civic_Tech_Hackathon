@@ -1,0 +1,14 @@
+Data Point,Value,Category,Description,Source URL,Year
+Total Population,879000,Demographics,"Estimated population",https://data.indy.gov/search?tags=crime+statistics,2024
+Violent Crime Rate,1 in 95,Public Safety,"Chance of violent crime victimization",https://data.indy.gov/search?tags=crime+statistics,2024
+Annual Homicides,208,Public Safety,"Annual homicide count",https://data.indy.gov/datasets/IndyGIS::impd-ucr-2019-data/about,2024
+Monthly Eviction Filings,1800,Housing Crisis,"Average daily eviction filings",https://www.ibrc.indiana.edu/ibr/2023/outlook/housing.html,2024
+Homeless Population,1701,Housing Crisis,"Total homeless individuals",https://www.ibrc.indiana.edu/ibr/2023/outlook/housing.html,2024
+Poverty Rate,14%,Economic Security,"Metro area poverty rate",https://www.savi.org/wp-content/uploads/2020/02/Poverty-in-Indianapolis-Handout-small.pdf,2024
+Food Insecure Population,200000,Food Security,"Residents lacking food access",https://centralindiana.stateofaging.org/food-insecurity-2023/,2024
+Mental Health Unmet Need,66%,Healthcare,"Percentage without treatment",https://grovetreatment.com/addiction/statistics/indiana-mental-health/,2024
+Roads Needing Repair,37%,Infrastructure,"Percentage requiring maintenance",https://www.wfyi.org/news/articles/construction-season-kicks-off-in-indianapolis-with-continued-infrastructure-investment-in-roadways-stormwater-and-multimodal-routes,2024
+Households Without Internet,9.8%,Digital Divide,"Lacking broadband access",https://www.in.gov/indianabroadband/files/Indiana-Digital-Equity-Plan-010724.pdf,2024
+High School Graduation Rate,90.2%,Education,"Public school graduation rate",https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220IN8.pdf,2024
+Racial Income Gap,40%,Equity,"Black-White income disparity",https://data.indy.gov/search?tags=crime+statistics,2024
+Emergency Assistance Denial Rate,85%,Social Services,"Township trustee denial rate",https://data.indy.gov/search?tags=emergency+assistance,2024
