@@ -1,0 +1,61 @@
+# Indianapolis Permits and Licenses Information
+
+## Building Permits
+- Building Permits: Required for new construction, additions, and major renovations
+- Electrical Permits: Required for electrical work
+- Plumbing Permits: Required for plumbing installations and modifications
+- HVAC Permits: Required for heating, ventilation, and air conditioning work
+- Demolition Permits: Required for structure demolition
+- Sign Permits: Required for new signs and sign modifications
+- Fence Permits: Required for fence installation
+- Swimming Pool Permits: Required for pool installation
+- Permit Application Process: Submit through the Accela Citizen Access Portal
+- Permit Fees: Based on project value and type
+
+## Business Licenses
+- Business License: General business registration
+- Retail Merchant Certificate: Required for retail sales
+- Food Service Establishment License: Required for restaurants and food vendors
+- Alcohol Beverage Permit: Required for selling alcohol
+- Contractor License: Required for construction contractors
+- Massage Establishment License: Required for massage businesses
+- Childcare License: Required for childcare facilities
+- Taxi/Transportation License: Required for taxi and transportation services
+- Special Event Permit: Required for public events
+- Vendor License: Required for street vendors and markets
+
+## Zoning and Land Use
+- Zoning Verification: Confirms property zoning designation
+- Variance: Permission to deviate from zoning requirements
+- Rezoning: Process to change property zoning classification
+- Special Exception: Permission for conditional uses
+- Development Plan Approval: Required for certain developments
+- Subdivision Approval: Required for dividing property
+- Historic Preservation Review: Required in historic districts
+- Regional Center Approval: Required in downtown area
+- Floodplain Development Permit: Required in flood-prone areas
+- Environmental Review: Required for certain developments
+
+## Special Permits
+- Right-of-Way Permit: Required for work in public right-of-way
+- Excavation Permit: Required for digging in public areas
+- Street Closure Permit: Required for temporary street closures
+- Parade/Public Assembly Permit: Required for parades and public gatherings
+- Noise Permit: Required for activities exceeding noise ordinance limits
+- Fireworks Display Permit: Required for professional fireworks displays
+- Film Production Permit: Required for commercial filming
+- Block Party Permit: Required for neighborhood block parties
+- Dumpster Permit: Required for dumpsters in public right-of-way
+- Sidewalk Café Permit: Required for outdoor restaurant seating
+
+## Application Information
+- Department of Business and Neighborhood Services: Primary permitting agency
+- Citizen Access Portal: Online application system at permits.indy.gov
+- Permit Counter: In-person service at 1200 Madison Avenue
+- Permit Review Process: Typically 5-10 business days
+- Inspections: Required at various stages of construction
+- Appeals Process: Available for denied permits
+- Permit Extensions: Available for active permits
+- Contractor Registration: Required for licensed contractors
+- Homeowner Permits: Available for owner-occupied residences
+- Expedited Review: Available for additional fee
